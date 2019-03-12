@@ -6,6 +6,7 @@
       <class name="testCases.TCS_001"/>
       <class name="testCases.TCS_003"/>
       <class name="testCases.TCS_002"/>
+      <class name="testCases.TCS_004"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
