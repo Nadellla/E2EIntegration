@@ -11,7 +11,7 @@ public class TCS_001 {
 	
 	public void testcases01()
 	{
-		System.setProperty("webdriver.chrome.driver", "/Users/krishnanv/Downloads/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "/Users/krishnanv/git/E2EIntegration/E2ESeleniumJenkins/Driver/chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com");
 		driver.findElement(By.id("email")).sendKeys("Kanna");
